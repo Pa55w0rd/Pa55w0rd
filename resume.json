@@ -1,0 +1,84 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": false
+    },
+    "profile": {
+        "name": "高星",
+        "email": "1029460456@qq.com",
+        "mobile": "13520297253",
+        "workExpYear": "7年",
+        "workPlace": "北京",
+        "positionTitle": "行政、内勤文员"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2010.09.01",
+                "2013.06.30"
+            ],
+            "school": "天津铁道职业技术学院",
+            "major": "计算机网络技术与安全",
+            "academic_degree": "专科"
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "Photoshop中级证",
+            "award_time": "2011"
+        },
+        {
+            "award_info": "趋势科技认证",
+            "award_time": "2012"
+        },
+        {
+            "award_info": "RCNA认证",
+            "award_time": "2012"
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "中国平安科技有限公司",
+            "department_name": "综合拓展部",
+            "work_time": [
+                "2018",
+                null
+            ],
+            "work_desc": "1.负责与300多位代理人沟通，帮助代理人促成签单\n2.熟练掌握车险算单、出单流程，及打印日常保单和相关发票，每月按时追踪车险续保到期人员\n3.线下发票领取及归档上传\n4.协助完成健康险续保、养老险续保追踪\n5.根据公司要求协助推动新保险"
+        },
+        {
+            "company_name": "国铁路安科技有限公司",
+            "department_name": "网络部",
+            "work_time": [
+                "2015",
+                "2018"
+            ],
+            "work_desc": "网络维护"
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "熟练使用常用的办公软件",
+            "skill_desc": "熟练使用常用的办公软件",
+            "skill_level": 90
+        }
+    ],
+    "projectList": [
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "自我适应能力强，诚实守信，对工作认真负责，有责任心，态度端正，具有良好的心理素质和职业操守。\n    "
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
